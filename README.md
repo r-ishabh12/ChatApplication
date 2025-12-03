@@ -1,5 +1,5 @@
-# ChatApplication
-🚀 Project Title & Tagline
+
+🚀 # ChatApplication
 ============================
 ### Real-Time Chat Application 📱💬
 #### Connecting people in real-time, one message at a time 🕒💬
